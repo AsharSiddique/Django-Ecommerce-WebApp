@@ -1,0 +1,19 @@
+Display: 13.3-inch 4K Ultra HD+ (3840 x 2400) InfinityEdge touch display
+
+Processor: 11th Generation Intel Core i7-1165G7
+
+RAM: 16GB LPDDR4x
+
+Storage: 512GB PCIe NVMe SSD
+
+Graphics: Intel Iris Xe Graphics
+
+Operating System: Windows 10 Home
+
+Connectivity: Wi-Fi 6 (802.11ax), Bluetooth 5.1
+
+Ports: 2 x Thunderbolt 4, 1 x USB-C 3.1 with PowerDelivery & DisplayPort, microSD card reader, 3.5mm headphone/microphone combo jack
+
+Battery: Up to 14 hours of usage
+
+Weight: Approximately 1.2 kg

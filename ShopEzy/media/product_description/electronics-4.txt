@@ -1,0 +1,18 @@
+Display: 15.6-inch 4K Ultra HD (3840 x 2160) multitouch-enabled OLED display
+
+Processor: 11th Generation Intel Core i7-11800H
+
+RAM: 32GB DDR4
+Storage: 1TB PCIe NVMe M.2 SSD
+
+Graphics: NVIDIA GeForce RTX 3050 Ti with 4GB GDDR6
+
+Operating System: Windows 10 Home
+
+Connectivity: Wi-Fi 6 (802.11ax), Bluetooth 5.2
+
+Ports: 2 x Thunderbolt 4, 1 x USB-A 3.1 Gen 2, 1 x HDMI 2.0b, 1 x 3.5mm headphone/microphone combo jack, microSD card reader
+
+Battery: Up to 10 hours of usage
+
+Weight: Approximately 2.1 kg

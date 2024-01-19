@@ -1,0 +1,19 @@
+Display: 6.7-inch Super Retina XDR OLED, 2778 x 1284 pixels
+
+Processor: Apple A15 Bionic
+
+RAM: Not officially disclosed by Apple
+
+Storage: 128GB/256GB/512GB/1TB (non-expandable)
+
+Rear Camera:
+
+Triple-camera setup: 12 MP (wide), 12 MP (ultrawide), 12 MP (telephoto)
+Features: Night mode, Deep Fusion, Sensor-shift optical image stabilization, 3x optical zoom in, 2x optical zoom out
+Front Camera: 12 MP (wide)
+
+Battery: Not officially disclosed by Apple
+
+Operating System: iOS 15
+
+Additional Features: 5G connectivity, Face ID, Water and dust resistance (IP68), MagSafe magnetic charging, Wi-Fi 6, NFC, Bluetooth 5.0

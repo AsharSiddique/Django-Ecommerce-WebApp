@@ -1,0 +1,19 @@
+Display: 6.8-inch Dynamic AMOLED 2X, 3200 x 1440 pixels
+
+Processor: Exynos 2100 (Global)/Qualcomm Snapdragon 888 (USA)
+
+RAM: 12GB/16GB
+
+Storage: 128GB/256GB/512GB (expandable via microSD)
+
+Rear Camera:
+
+Quad-camera setup: 108 MP (wide), 12 MP (ultrawide), 10 MP (telephoto), 10 MP (periscope telephoto)
+Features: 100x Space Zoom, Dual Pixel PDAF, OIS, laser autofocus
+Front Camera: 40 MP (wide)
+
+Battery: 5,000mAh
+
+Operating System: Android 11 with One UI 3.1
+
+Additional Features: IP68 water and dust resistance, 5G connectivity, S Pen support (sold separately), Wi-Fi 6, NFC, Bluetooth 5.2

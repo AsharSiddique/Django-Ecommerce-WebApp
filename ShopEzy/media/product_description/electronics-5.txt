@@ -1,0 +1,17 @@
+Screen Size: 65 inches
+
+Display Technology: OLED (Organic LED)
+
+Resolution: 4K Ultra HD (3840 x 2160 pixels)
+
+HDR (High Dynamic Range): Yes
+
+Smart TV: Yes
+
+Operating System: webOS
+
+Processor: α9 Gen 3 AI Processor
+
+Connectivity: Wi-Fi, Bluetooth, HDMI, USB, Ethernet
+
+Sound: Dolby Atmos, 40W output, 2.2 channel
